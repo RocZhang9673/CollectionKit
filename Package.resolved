@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "YetAnotherAnimationLibrary",
+        "repositoryURL": "https://github.com/lkzhao/YetAnotherAnimationLibrary.git",
+        "state": {
+          "branch": null,
+          "revision": "13ad293fdd78c845abd40ad223b92c7d57674b4d",
+          "version": "1.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
